@@ -1,4 +1,4 @@
 Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-Trinity College,"300 Summit St, Hartford CT 06106",41.745167,-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
-Capital Community College,950 Main St Hartford CT 06103,41.768074,-72.673065,"950 MAIN ST, HARTFORD, CT, 06103",Exact,US Census
-University of Hartford,"200 Bloomfield Ave, West Hartford CT 06117",41.794655,-72.71764,"200 BLOOMFIELD AVE, WEST HARTFORD, CT, 06117",Exact,US Census
+Work,1618 SW 1st Ave Portland OR 97201,45.511513,-122.67707,"1618 SW 1ST AVE, PORTLAND, OR, 97201",Exact,US Census
+Willow Creek,241 SW Edgeway Dr Beaverton OR,45.51796,-122.86977,"241 SW EDGEWAY DR, BEAVERTON, OR, 97006",Match,US Census
+Home,4350 SE Milwaukie Ave Portland OR 97202,45.491703,-122.65176,"4350 SE MILWAUKIE AVE, PORTLAND, OR, 97202",Exact,US Census
